@@ -18,3 +18,7 @@ Tooling
 * Bloop build server
 
 
+# License
+
+MIT. See `LICENSE` file.
+
